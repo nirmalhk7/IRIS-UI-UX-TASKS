@@ -8,7 +8,7 @@ html,body {
 }
 #heading1{
     font-family: 'Major Mono Display', monospace;
-    font-size: 40px;
+    font-size: 100px;
 }
 #heading2{
     font-family: 'Merriweather-Sans', sans-serif;
@@ -31,6 +31,13 @@ html,body {
     padding: 20px;
     font-size: 25px;
 }
+#rightsideheading{
+    color: #c5c6c7;
+    padding:20px;
+}
 hr.tophr{
     border:3px solid #66FCF1;
+}
+hr.bottomhr{
+    border:1px solid #ff0000;
 }
