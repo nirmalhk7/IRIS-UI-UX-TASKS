@@ -1,7 +1,6 @@
 html,body {
     height: 100%;
     width: 100%;
-    
     min-height: 100%!important;
     scroll-behavior: smooth;
     background-color: #0B0C10;
@@ -19,7 +18,7 @@ html,body {
     padding:10px 10px;
     background-repeat: no-repeat;
     min-height:353px;
-    min-width: 193px;
+    min-width: 353px;
     width:100%;
     max-height: 253px;
     
